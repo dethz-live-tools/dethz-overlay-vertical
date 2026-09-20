@@ -2,3 +2,5 @@ name: "deth'z overlay vertical"
 description: "just another simple overlay on deth'z live stream (on tiktok and maybe another platform soon :3)"
 image: "src/background.png"
 author: "dethMastery"
+libs:
+  - dethz-live-tools/dethz-lib
